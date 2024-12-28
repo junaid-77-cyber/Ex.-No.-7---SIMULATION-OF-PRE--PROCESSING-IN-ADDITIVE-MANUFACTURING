@@ -48,7 +48,7 @@
 ![Step6](https://github.com/user-attachments/assets/3d03d794-56a7-435d-8d75-8c1fc09916cc)
 
 ### Name:Junaid Sardar
-### Register Number:24003949
+### Register Number:24003943
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
